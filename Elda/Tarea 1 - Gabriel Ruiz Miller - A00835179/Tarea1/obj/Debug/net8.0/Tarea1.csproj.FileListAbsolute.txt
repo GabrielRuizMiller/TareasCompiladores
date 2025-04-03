@@ -1,0 +1,14 @@
+D:\monal\Escritorio\CSharpCompiladores\Tarea1\Tarea1\Tarea1\bin\Debug\net8.0\Tarea1.exe
+D:\monal\Escritorio\CSharpCompiladores\Tarea1\Tarea1\Tarea1\bin\Debug\net8.0\Tarea1.deps.json
+D:\monal\Escritorio\CSharpCompiladores\Tarea1\Tarea1\Tarea1\bin\Debug\net8.0\Tarea1.runtimeconfig.json
+D:\monal\Escritorio\CSharpCompiladores\Tarea1\Tarea1\Tarea1\bin\Debug\net8.0\Tarea1.dll
+D:\monal\Escritorio\CSharpCompiladores\Tarea1\Tarea1\Tarea1\bin\Debug\net8.0\Tarea1.pdb
+D:\monal\Escritorio\CSharpCompiladores\Tarea1\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+D:\monal\Escritorio\CSharpCompiladores\Tarea1\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.AssemblyInfoInputs.cache
+D:\monal\Escritorio\CSharpCompiladores\Tarea1\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.AssemblyInfo.cs
+D:\monal\Escritorio\CSharpCompiladores\Tarea1\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.csproj.CoreCompileInputs.cache
+D:\monal\Escritorio\CSharpCompiladores\Tarea1\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.dll
+D:\monal\Escritorio\CSharpCompiladores\Tarea1\Tarea1\Tarea1\obj\Debug\net8.0\refint\Tarea1.dll
+D:\monal\Escritorio\CSharpCompiladores\Tarea1\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.pdb
+D:\monal\Escritorio\CSharpCompiladores\Tarea1\Tarea1\Tarea1\obj\Debug\net8.0\Tarea1.genruntimeconfig.cache
+D:\monal\Escritorio\CSharpCompiladores\Tarea1\Tarea1\Tarea1\obj\Debug\net8.0\ref\Tarea1.dll
